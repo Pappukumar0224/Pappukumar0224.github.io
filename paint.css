@@ -63,7 +63,7 @@ header {
 
 .logo {
     max-width: 130px; /* Adjusted size */
-    position:absolute;
+    position:relative;
     top:auto; /* Adjusted position */
     left: 20px; /* Adjusted position */
     border-radius: 50%;
