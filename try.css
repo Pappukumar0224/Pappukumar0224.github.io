@@ -27,9 +27,7 @@ nav li:not(:last-child) {
 }
 
 .nav-right {
-    margin-left:220px;
-    list-style: none;
-    display: flex;
+    margin-left:auto;
 }
 
 nav a {
